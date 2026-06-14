@@ -1,108 +1,71 @@
-<h1 align="center">Hi there, I'm Anand Mali 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Building+scalable+web+apps;Open+to+full-time+opportunities" alt="Typing SVG" />
-</p>
+# Anand Mali
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anand-mali-088652254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://anandsundesha.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MaliAnand01&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Building+products+people+love" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-mali-088652254/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236366F1.svg?style=flat-square&logo=vercel&logoColor=white)](https://anandsundesha.vercel.app/)
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+### About
 
-- 🚀 **Full Stack Developer** passionate about building clean, scalable, and impactful web applications
-- 🌐 Experienced with **React**, **Node.js**, **Java Spring Boot**, and modern JavaScript ecosystems
-- ☁️ Currently **learning Cloud** (AWS / GCP / Azure) to level up my backend & infrastructure skills
-- 💼 **Open to full-time roles** — if you're hiring, let's connect!
-- ⚡ Fun fact: I believe great software is built at the intersection of clean code and great UX
+Full Stack Developer focused on building clean, scalable web applications with great user experiences.  
+Currently leveling up in **Cloud** (AWS / GCP / Azure). Open to full-time opportunities.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**
+`React` `TypeScript` `JavaScript` `HTML` `CSS`
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+**Backend**
+`Node.js` `Express.js` `Java` `Spring Boot`
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Database & Cloud**
+`MongoDB` `MySQL` `AWS`
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Tools**
+`Git` `Docker` `Postman` `VS Code`
 
 ---
 
-## 📊 GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaliAnand01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaliAnand01&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaliAnand01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-</p>
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| **Atmos** | Vibe-based event discovery & booking platform with premium UX | `Spring Boot` `React` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaliAnand01/Atmos) |
+| **ShopEase Pro** | High-performance e-commerce platform with admin dashboard & Supabase backend | `React` `Vite` `Supabase` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaliAnand01/Shopease_Pro) [![Live](https://img.shields.io/badge/Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://itsshopease.vercel.app/) |
+| **Luvia Beauty** | Luxury skincare e-commerce frontend with bold feminine aesthetic | `React` `Tailwind CSS` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaliAnand01/luvia-beauty) [![Live](https://img.shields.io/badge/Live-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://luvia.vercel.app/) |
 
 ---
 
-## 🌱 Currently Learning
+### GitHub Stats
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-Exploring-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-Exploring-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=MaliAnand01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaliAnand01&theme=tokyonight&hide_border=true" height="150" />
 
-## 📌 Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaliAnand01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="130" />
 
-> 🚧 *Coming soon — check out my [portfolio](https://anandsundesha.vercel.app/) for live projects!*
+</div>
 
 ---
 
-## 🤝 Let's Connect
+### Currently Learning
 
-<p>
-  I'm always open to interesting conversations, collaboration opportunities, and full-time roles.<br/>
-  Feel free to reach out — I'd love to connect!
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anand-mali-088652254/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://anandsundesha.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+`AWS` &nbsp; `GCP` &nbsp; `Azure` &nbsp; `Cloud Architecture`
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" />
-</p>
+<div align="center">
+
+*Open to full-time roles & interesting collaborations — [let's talk](https://www.linkedin.com/in/anand-mali-088652254/)*
+
+</div>
